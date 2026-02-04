@@ -19,12 +19,14 @@
 
 <table align="center">
   <tr>
-    <th colspan="3">web stack</th>
+    <th colspan="5">web stack</th>
   </tr>
   <tr>
-    <td width="33%"><img alt="nodeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></td>
-    <td width="33%"><img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png"></td>
-    <td width="33%"><img alt="mySQL" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"></td>
+    <td width="20%"><img alt="" src=""></td>
+    <td width="20%"><img alt="nodeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></td>
+    <td width="20%"><img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png"></td>
+    <td width="20%"><img alt="mySQL" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"></td>
+    <td width="20%"><img alt="" src=""></td>
   </tr>
 </table>
 
